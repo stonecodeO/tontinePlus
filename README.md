@@ -1,7 +1,8 @@
 ## TontinePLus
 
 C'est une application de gestion d'épargne et un système de tontine à l'africaine.
-##Architecture 
+
+## Architecture ### 
 
 TontinePlus s'appuie sur le framework Laravel pour les api rest pour le backend
 et un frontend écrit entièrement en vanilla Javascript..
