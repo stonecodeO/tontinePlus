@@ -1,0 +1,9 @@
+const profile = () => {
+
+    let content = `<h1>User profile </h1>`
+
+    const main = document.getElementById('main')
+    main.innerHTML = content
+}
+
+export default profile
